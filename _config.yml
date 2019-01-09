@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Okke van der Wal"
   avatar           : "profile_okke.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Netherlands"
+  bio              : "Data Science student at Tilburg University & Data Analyst at Blendle"
+  location         : "Utrecht, The Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :
+  email            : "okkevanderwal@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,8 +100,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "http://linkedin.com/in/okkevanderwal/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
